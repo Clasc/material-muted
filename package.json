@@ -1,0 +1,23 @@
+{
+	"name": "material-muted-color-theme",
+	"version": "0.1.0",
+	"publisher": "christian.lascsak",
+	"private": true,
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Clasc/material-muted"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Muted Dark",
+				"uiTheme": "vs-dark",
+				"path": "./material-muted-dark.tmTheme"
+			}
+		]
+	}
+}

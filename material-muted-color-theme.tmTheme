@@ -957,7 +957,6 @@
 			],
 			"settings": {
 				"foreground": "#C3E88D",
-				"fontStyle": "normal"
 			}
 		},
 		{
@@ -1287,7 +1286,7 @@
 				"markup.strike"
 			],
 			"settings": {
-				"fontStyle": "strike"
+				"fontStyle": "strikethrough"
 			}
 		},
 		{
