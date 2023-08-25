@@ -1,23 +1,21 @@
 {
-	"name": "material-muted-color-theme",
-	"version": "0.1.0",
-	"publisher": "christian.lascsak",
-	"private": true,
-	"license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Clasc/material-muted"
-	},
-	"engines": {
-		"vscode": "*"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "Material Muted Dark",
-				"uiTheme": "vs-dark",
-				"path": "./material-muted-dark.tmTheme"
-			}
-		]
-	}
+  "name": "material-muted-yellow",
+  "displayName": "material-muted-yellow",
+  "description": "A material design inspired theme with muted colors and high contrast to keep it readable. All yellow themed.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Muted Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Material Muted Yellow-color-theme.json"
+      }
+    ]
+  }
 }
