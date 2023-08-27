@@ -2,6 +2,7 @@
   "name": "material-muted-yellow",
   "displayName": "material-muted-yellow",
   "description": "A material design inspired theme with muted colors and high contrast to keep it readable. All yellow themed.",
+  "repository": {"url": "https://github.com/Clasc/material-muted"},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
