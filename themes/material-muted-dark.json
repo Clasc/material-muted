@@ -40,8 +40,8 @@
 		"editorGutter.modifiedBackground": "#82aaff60",
 		"editorHoverWidget.background": "#212121",
 		"editorHoverWidget.border": "#ffffff10",
-		"editorIndentGuide.activeBackground": "#424242",
-		"editorIndentGuide.background": "#42424270",
+		"editorIndentGuide.activeBackground1": "#424242",
+		"editorIndentGuide.background1": "#42424270",
 		"editorInfo.foreground": "#82aaff70",
 		"editorLineNumber.activeForeground": "#848484",
 		"editorLineNumber.foreground": "#424242",
@@ -1037,7 +1037,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA",
+				"foreground": "#92ceea",
 				"fontStyle": "italic"
 			}
 		},
