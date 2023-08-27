@@ -239,7 +239,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#e9e787"
 			}
 		},
 		{
@@ -719,7 +719,7 @@
 		{
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#3F51B5"
+				"foreground": "#e9e787"
 			}
 		},
 		{
