@@ -1,5 +1,10 @@
 # material-muted-yellow README
 
+## Screenshot
+
+[JSX](/docs/images/mm-theme-jsx.png)
+[CSS](/docs/images/mm-theme-css.png)
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
