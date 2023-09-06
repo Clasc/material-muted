@@ -2,10 +2,13 @@
 
 A dark - yellow / orange based theme with inspired by material design!
 
-## Screenshot
+## Screenshots
 
-[JSX](/docs/images/mm-theme-jsx.png)
-[CSS](/docs/images/mm-theme-css.png)
+### Usage in JSX
+![JSX](/docs/images/mm-theme-jsx.png)
+
+### Usage in CSS
+![CSS](/docs/images/mm-theme-css.png)
 
 ## Working with Markdown
 
