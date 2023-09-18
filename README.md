@@ -20,10 +20,10 @@ This theme has borderless windows in vscode and non obstrusive colors in the edi
 - ts, tsx
 - markdown
 - json
+- go
 
 ## Partially supports
 
-- go
 - C++
 
 ## Suggestions
