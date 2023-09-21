@@ -1,18 +1,20 @@
 # Material Muted Yellow
 
-A dark - yellow / orange based theme with inspired by material design!
+A dark - yellow / orange based theme inspired by material design!
+This theme has borderless windows in vscode and non obstrusive colors in the editor, while still being readable.
+
+## Why another "Material Theme"?
+Because i did not like the font colors. They were often too aggressive to me, like using aggressive reds and so on.
+This theme tries to keep the sleekiness of material themes, while also using a nice combination on font colors that are compatible with the overall yellow touches.
 
 ## Screenshots
 
-### Usage in JSX
+### JSX
 ![JSX](/docs/images/mm-theme-jsx.png)
 
-### Usage in CSS
+### CSS
 ![CSS](/docs/images/mm-theme-css.png)
 
-## Working with Markdown
-
-This theme has borderless windows in vscode and non obstrusive colors in the editor, while still being readable.
 
 ## officially Supports
 
